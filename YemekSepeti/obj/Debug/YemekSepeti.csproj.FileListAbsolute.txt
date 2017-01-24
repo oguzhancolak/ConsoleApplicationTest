@@ -1,0 +1,6 @@
+c:\users\fatihemre\documents\visual studio 2013\Projects\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+c:\users\fatihemre\documents\visual studio 2013\Projects\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe
+c:\users\fatihemre\documents\visual studio 2013\Projects\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.pdb
+c:\users\fatihemre\documents\visual studio 2013\Projects\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csprojResolveAssemblyReference.cache
+c:\users\fatihemre\documents\visual studio 2013\Projects\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+c:\users\fatihemre\documents\visual studio 2013\Projects\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
