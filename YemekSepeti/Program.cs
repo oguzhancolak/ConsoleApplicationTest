@@ -43,11 +43,11 @@ namespace YemekSepeti
                     int leftListTotalValue = leftList.Sum();
 
                     // Ara index değerinden çıkarılmış toplamdan, sol liste toplamı çıkarılıyor.
+                    // Bu bize sağ liste toplamını verecektir.
                     int remainingValue = comparisonValue - leftListTotalValue;
 
                     // Eğer sol liste toplamıyla, 
-                    // index ve sol liste toplamından çıkarılmış değer
-                    // bize sağ liste toplamını verir.
+                    // sağ liste toplamı eşitse değerimiz budur.
                     if (leftListTotalValue == remainingValue)
                     {
                         result = i;
