@@ -42,7 +42,7 @@ namespace YemekSepeti
                     // Ara index değerinden çıkarılmış toplamdan, sol liste toplamı çıkarılıyor.
                     int remainingValue = comparisonValue - leftListTotalValue;
 
-                    // Eğer sol liste toplamıyla, 
+                    // Sol liste toplamıyla, 
                     // index ve sol liste toplamından çıkarılmış değer
                     // bize sağ liste toplamını verir.
                     if (leftListTotalValue == remainingValue)
